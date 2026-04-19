@@ -9,9 +9,9 @@
 | Dataset ID | `906862` |
 | Location | North Carolina |
 | Category | Restaurants |
-| Full dataset size | 206 records |
-| Free sample size | 17 records (8.25%) |
-| Last export | 2026-03-31T23:09:53.489099+00:00 |
+| Full dataset size | 174 records |
+| Free sample size | 17 records (9.77%) |
+| Last export | 2026-04-15T00:45:26.325177+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-north-carolina-us-sample-906862/releases/download/sample-latest/beamstation_906862_food_and_drink-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
