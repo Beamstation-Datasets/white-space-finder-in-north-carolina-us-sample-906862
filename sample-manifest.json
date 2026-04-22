@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c0746096-811c-470f-bc03-844172d3895a",
+  "export_job_id": "9a9494ad-1009-44c1-87e4-72391a7987d4",
   "id_short": 906862,
-  "published_at": "2026-04-19T07:17:16Z",
+  "published_at": "2026-04-22T19:07:21Z",
   "repo_name": "white-space-finder-in-north-carolina-us-sample-906862",
   "sample_asset_name": "beamstation_906862_food_and_drink-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/906862/beamstation_906862_food_and_drink-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "3d805f2f7d9069dce711aeff6d90ca5e7a61a2a6b4d1bc710dfbfd0b5769e04a",
-  "sample_size_bytes": 78235,
-  "total_records": 174
+  "sample_records": 9,
+  "sample_sha256": "4d78dd9dbcc0817bf751b70da85042699a4b5e9946db9a29d87bf4c929a58767",
+  "sample_size_bytes": 49322,
+  "total_records": 94
 }
